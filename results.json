@@ -1,0 +1,5222 @@
+[
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 02:25:18",
+    "total": 164,
+    "normal": 34,
+    "defect": 130,
+    "normal_pct": 20.73,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 02:25:20",
+    "total": 176,
+    "normal": 60,
+    "defect": 116,
+    "normal_pct": 34.09,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 02:25:22",
+    "total": 177,
+    "normal": 60,
+    "defect": 117,
+    "normal_pct": 33.9,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 02:25:25",
+    "total": 176,
+    "normal": 60,
+    "defect": 116,
+    "normal_pct": 34.09,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 02:25:27",
+    "total": 181,
+    "normal": 58,
+    "defect": 123,
+    "normal_pct": 32.04,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 02:25:29",
+    "total": 170,
+    "normal": 60,
+    "defect": 110,
+    "normal_pct": 35.29,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 02:25:31",
+    "total": 177,
+    "normal": 60,
+    "defect": 117,
+    "normal_pct": 33.9,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 02:25:33",
+    "total": 193,
+    "normal": 60,
+    "defect": 133,
+    "normal_pct": 31.09,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 02:25:35",
+    "total": 61,
+    "normal": 22,
+    "defect": 39,
+    "normal_pct": 36.07,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 10,
+    "timestamp": "2026-05-23 02:25:37",
+    "total": 73,
+    "normal": 26,
+    "defect": 47,
+    "normal_pct": 35.62,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 11,
+    "timestamp": "2026-05-23 02:25:39",
+    "total": 90,
+    "normal": 55,
+    "defect": 35,
+    "normal_pct": 61.11,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 12,
+    "timestamp": "2026-05-23 02:25:42",
+    "total": 59,
+    "normal": 47,
+    "defect": 12,
+    "normal_pct": 79.66,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 13,
+    "timestamp": "2026-05-23 02:25:44",
+    "total": 45,
+    "normal": 41,
+    "defect": 4,
+    "normal_pct": 91.11,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 14,
+    "timestamp": "2026-05-23 02:25:46",
+    "total": 60,
+    "normal": 60,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 15,
+    "timestamp": "2026-05-23 02:25:49",
+    "total": 58,
+    "normal": 58,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 16,
+    "timestamp": "2026-05-23 02:25:51",
+    "total": 57,
+    "normal": 51,
+    "defect": 6,
+    "normal_pct": 89.47,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 17,
+    "timestamp": "2026-05-23 02:25:53",
+    "total": 77,
+    "normal": 59,
+    "defect": 18,
+    "normal_pct": 76.62,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 18,
+    "timestamp": "2026-05-23 02:25:56",
+    "total": 91,
+    "normal": 60,
+    "defect": 31,
+    "normal_pct": 65.93,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 19,
+    "timestamp": "2026-05-23 02:25:58",
+    "total": 90,
+    "normal": 60,
+    "defect": 30,
+    "normal_pct": 66.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 20,
+    "timestamp": "2026-05-23 02:26:00",
+    "total": 95,
+    "normal": 60,
+    "defect": 35,
+    "normal_pct": 63.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 21,
+    "timestamp": "2026-05-23 02:26:03",
+    "total": 93,
+    "normal": 60,
+    "defect": 33,
+    "normal_pct": 64.52,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 22,
+    "timestamp": "2026-05-23 02:26:05",
+    "total": 84,
+    "normal": 54,
+    "defect": 30,
+    "normal_pct": 64.29,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 10:05:47",
+    "total": 55,
+    "normal": 2,
+    "defect": 53,
+    "normal_pct": 3.64,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 10:05:49",
+    "total": 18,
+    "normal": 0,
+    "defect": 18,
+    "normal_pct": 0.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 10:05:52",
+    "total": 15,
+    "normal": 0,
+    "defect": 15,
+    "normal_pct": 0.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 10:05:54",
+    "total": 13,
+    "normal": 0,
+    "defect": 13,
+    "normal_pct": 0.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 10:48:38",
+    "total": 108,
+    "normal": 77,
+    "defect": 31,
+    "normal_pct": 71.3,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 10:48:40",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 10:48:42",
+    "total": 131,
+    "normal": 81,
+    "defect": 50,
+    "normal_pct": 61.83,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 10:48:44",
+    "total": 162,
+    "normal": 90,
+    "defect": 72,
+    "normal_pct": 55.56,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 10:48:47",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 10:48:49",
+    "total": 179,
+    "normal": 90,
+    "defect": 89,
+    "normal_pct": 50.28,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 10:48:51",
+    "total": 177,
+    "normal": 90,
+    "defect": 87,
+    "normal_pct": 50.85,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 10:48:53",
+    "total": 204,
+    "normal": 90,
+    "defect": 114,
+    "normal_pct": 44.12,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 10:48:55",
+    "total": 195,
+    "normal": 90,
+    "defect": 105,
+    "normal_pct": 46.15,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 10,
+    "timestamp": "2026-05-23 10:48:57",
+    "total": 184,
+    "normal": 90,
+    "defect": 94,
+    "normal_pct": 48.91,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 11,
+    "timestamp": "2026-05-23 10:48:59",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 12,
+    "timestamp": "2026-05-23 10:49:01",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 13,
+    "timestamp": "2026-05-23 10:49:03",
+    "total": 181,
+    "normal": 90,
+    "defect": 91,
+    "normal_pct": 49.72,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 14,
+    "timestamp": "2026-05-23 10:49:05",
+    "total": 183,
+    "normal": 90,
+    "defect": 93,
+    "normal_pct": 49.18,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 15,
+    "timestamp": "2026-05-23 10:49:07",
+    "total": 196,
+    "normal": 90,
+    "defect": 106,
+    "normal_pct": 45.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 16,
+    "timestamp": "2026-05-23 10:49:09",
+    "total": 196,
+    "normal": 90,
+    "defect": 106,
+    "normal_pct": 45.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 17,
+    "timestamp": "2026-05-23 10:49:11",
+    "total": 210,
+    "normal": 90,
+    "defect": 120,
+    "normal_pct": 42.86,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 18,
+    "timestamp": "2026-05-23 10:49:13",
+    "total": 210,
+    "normal": 90,
+    "defect": 120,
+    "normal_pct": 42.86,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 19,
+    "timestamp": "2026-05-23 10:49:15",
+    "total": 210,
+    "normal": 90,
+    "defect": 120,
+    "normal_pct": 42.86,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 20,
+    "timestamp": "2026-05-23 10:49:17",
+    "total": 184,
+    "normal": 90,
+    "defect": 94,
+    "normal_pct": 48.91,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 21,
+    "timestamp": "2026-05-23 10:49:19",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 22,
+    "timestamp": "2026-05-23 10:49:21",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 23,
+    "timestamp": "2026-05-23 10:49:24",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 24,
+    "timestamp": "2026-05-23 10:49:26",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 25,
+    "timestamp": "2026-05-23 10:49:28",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 26,
+    "timestamp": "2026-05-23 10:49:31",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 27,
+    "timestamp": "2026-05-23 10:49:33",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 28,
+    "timestamp": "2026-05-23 10:49:35",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 29,
+    "timestamp": "2026-05-23 10:49:38",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 30,
+    "timestamp": "2026-05-23 10:49:40",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 31,
+    "timestamp": "2026-05-23 10:49:42",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 32,
+    "timestamp": "2026-05-23 10:49:45",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 33,
+    "timestamp": "2026-05-23 10:49:47",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 34,
+    "timestamp": "2026-05-23 10:49:49",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 35,
+    "timestamp": "2026-05-23 10:49:52",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 36,
+    "timestamp": "2026-05-23 10:49:54",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 37,
+    "timestamp": "2026-05-23 10:49:56",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 38,
+    "timestamp": "2026-05-23 10:49:59",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 39,
+    "timestamp": "2026-05-23 10:50:01",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 40,
+    "timestamp": "2026-05-23 10:50:03",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 41,
+    "timestamp": "2026-05-23 10:50:06",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 42,
+    "timestamp": "2026-05-23 10:50:08",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 43,
+    "timestamp": "2026-05-23 10:50:10",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 44,
+    "timestamp": "2026-05-23 10:50:13",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 45,
+    "timestamp": "2026-05-23 10:50:15",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 46,
+    "timestamp": "2026-05-23 10:50:17",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 47,
+    "timestamp": "2026-05-23 10:50:19",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 48,
+    "timestamp": "2026-05-23 10:50:22",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 49,
+    "timestamp": "2026-05-23 10:50:24",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 50,
+    "timestamp": "2026-05-23 10:50:26",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 51,
+    "timestamp": "2026-05-23 10:50:28",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 52,
+    "timestamp": "2026-05-23 10:50:31",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 53,
+    "timestamp": "2026-05-23 10:50:33",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 54,
+    "timestamp": "2026-05-23 10:50:40",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 55,
+    "timestamp": "2026-05-23 10:50:44",
+    "total": 127,
+    "normal": 87,
+    "defect": 40,
+    "normal_pct": 68.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 56,
+    "timestamp": "2026-05-23 10:50:46",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 57,
+    "timestamp": "2026-05-23 10:50:48",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 58,
+    "timestamp": "2026-05-23 10:50:51",
+    "total": 148,
+    "normal": 88,
+    "defect": 60,
+    "normal_pct": 59.46,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 59,
+    "timestamp": "2026-05-23 10:50:53",
+    "total": 138,
+    "normal": 78,
+    "defect": 60,
+    "normal_pct": 56.52,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 60,
+    "timestamp": "2026-05-23 10:50:55",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 61,
+    "timestamp": "2026-05-23 10:50:57",
+    "total": 92,
+    "normal": 60,
+    "defect": 32,
+    "normal_pct": 65.22,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 62,
+    "timestamp": "2026-05-23 10:50:59",
+    "total": 55,
+    "normal": 35,
+    "defect": 20,
+    "normal_pct": 63.64,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 63,
+    "timestamp": "2026-05-23 10:51:01",
+    "total": 51,
+    "normal": 26,
+    "defect": 25,
+    "normal_pct": 50.98,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 64,
+    "timestamp": "2026-05-23 10:51:03",
+    "total": 29,
+    "normal": 6,
+    "defect": 23,
+    "normal_pct": 20.69,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 65,
+    "timestamp": "2026-05-23 10:51:07",
+    "total": 58,
+    "normal": 20,
+    "defect": 38,
+    "normal_pct": 34.48,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 66,
+    "timestamp": "2026-05-23 10:51:12",
+    "total": 149,
+    "normal": 90,
+    "defect": 59,
+    "normal_pct": 60.4,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 67,
+    "timestamp": "2026-05-23 10:51:14",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 68,
+    "timestamp": "2026-05-23 10:51:16",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 69,
+    "timestamp": "2026-05-23 10:51:18",
+    "total": 126,
+    "normal": 76,
+    "defect": 50,
+    "normal_pct": 60.32,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 70,
+    "timestamp": "2026-05-23 10:51:21",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 71,
+    "timestamp": "2026-05-23 10:51:23",
+    "total": 134,
+    "normal": 82,
+    "defect": 52,
+    "normal_pct": 61.19,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 72,
+    "timestamp": "2026-05-23 10:51:25",
+    "total": 110,
+    "normal": 68,
+    "defect": 42,
+    "normal_pct": 61.82,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 73,
+    "timestamp": "2026-05-23 10:51:27",
+    "total": 149,
+    "normal": 98,
+    "defect": 51,
+    "normal_pct": 65.77,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 74,
+    "timestamp": "2026-05-23 10:51:29",
+    "total": 103,
+    "normal": 67,
+    "defect": 36,
+    "normal_pct": 65.05,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 75,
+    "timestamp": "2026-05-23 10:51:31",
+    "total": 146,
+    "normal": 88,
+    "defect": 58,
+    "normal_pct": 60.27,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 76,
+    "timestamp": "2026-05-23 10:51:33",
+    "total": 159,
+    "normal": 95,
+    "defect": 64,
+    "normal_pct": 59.75,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 77,
+    "timestamp": "2026-05-23 10:51:35",
+    "total": 117,
+    "normal": 60,
+    "defect": 57,
+    "normal_pct": 51.28,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 78,
+    "timestamp": "2026-05-23 10:51:37",
+    "total": 66,
+    "normal": 35,
+    "defect": 31,
+    "normal_pct": 53.03,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 79,
+    "timestamp": "2026-05-23 10:51:39",
+    "total": 22,
+    "normal": 11,
+    "defect": 11,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 80,
+    "timestamp": "2026-05-23 10:51:42",
+    "total": 106,
+    "normal": 60,
+    "defect": 46,
+    "normal_pct": 56.6,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 81,
+    "timestamp": "2026-05-23 10:51:44",
+    "total": 150,
+    "normal": 90,
+    "defect": 60,
+    "normal_pct": 60.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 82,
+    "timestamp": "2026-05-23 10:51:46",
+    "total": 138,
+    "normal": 78,
+    "defect": 60,
+    "normal_pct": 56.52,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 83,
+    "timestamp": "2026-05-23 10:51:48",
+    "total": 123,
+    "normal": 58,
+    "defect": 65,
+    "normal_pct": 47.15,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 84,
+    "timestamp": "2026-05-23 10:51:50",
+    "total": 146,
+    "normal": 80,
+    "defect": 66,
+    "normal_pct": 54.79,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 85,
+    "timestamp": "2026-05-23 10:51:52",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 86,
+    "timestamp": "2026-05-23 10:51:54",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 87,
+    "timestamp": "2026-05-23 10:51:56",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 88,
+    "timestamp": "2026-05-23 10:51:58",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 89,
+    "timestamp": "2026-05-23 10:52:00",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 90,
+    "timestamp": "2026-05-23 10:52:02",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 91,
+    "timestamp": "2026-05-23 10:52:05",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 92,
+    "timestamp": "2026-05-23 10:52:06",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 93,
+    "timestamp": "2026-05-23 10:52:09",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 94,
+    "timestamp": "2026-05-23 10:52:11",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 95,
+    "timestamp": "2026-05-23 10:52:13",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 96,
+    "timestamp": "2026-05-23 10:52:15",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 97,
+    "timestamp": "2026-05-23 10:52:17",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 98,
+    "timestamp": "2026-05-23 10:52:19",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 99,
+    "timestamp": "2026-05-23 10:52:21",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 100,
+    "timestamp": "2026-05-23 10:52:23",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 101,
+    "timestamp": "2026-05-23 10:52:25",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 102,
+    "timestamp": "2026-05-23 10:52:27",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 103,
+    "timestamp": "2026-05-23 10:52:30",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 104,
+    "timestamp": "2026-05-23 10:52:32",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 105,
+    "timestamp": "2026-05-23 10:52:34",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 106,
+    "timestamp": "2026-05-23 10:52:36",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 107,
+    "timestamp": "2026-05-23 10:52:38",
+    "total": 180,
+    "normal": 90,
+    "defect": 90,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 108,
+    "timestamp": "2026-05-23 10:52:40",
+    "total": 120,
+    "normal": 60,
+    "defect": 60,
+    "normal_pct": 50.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 10:54:00",
+    "total": 260,
+    "normal": 198,
+    "defect": 62,
+    "normal_pct": 76.15,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 10:54:02",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 10:54:04",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 10:54:06",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 10:54:08",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 10:54:10",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 10:54:12",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 10:54:14",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 10:54:15",
+    "total": 81,
+    "normal": 63,
+    "defect": 18,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 11:56:56",
+    "total": 146,
+    "normal": 112,
+    "defect": 34,
+    "normal_pct": 76.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 11:56:58",
+    "total": 40,
+    "normal": 36,
+    "defect": 4,
+    "normal_pct": 90.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 11:57:00",
+    "total": 59,
+    "normal": 54,
+    "defect": 5,
+    "normal_pct": 91.53,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 11:57:01",
+    "total": 78,
+    "normal": 70,
+    "defect": 8,
+    "normal_pct": 89.74,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 11:57:03",
+    "total": 111,
+    "normal": 104,
+    "defect": 7,
+    "normal_pct": 93.69,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 11:57:05",
+    "total": 144,
+    "normal": 131,
+    "defect": 13,
+    "normal_pct": 90.97,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 11:57:06",
+    "total": 175,
+    "normal": 169,
+    "defect": 6,
+    "normal_pct": 96.57,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 11:57:08",
+    "total": 192,
+    "normal": 181,
+    "defect": 11,
+    "normal_pct": 94.27,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 11:57:10",
+    "total": 206,
+    "normal": 180,
+    "defect": 26,
+    "normal_pct": 87.38,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 10,
+    "timestamp": "2026-05-23 11:57:12",
+    "total": 211,
+    "normal": 180,
+    "defect": 31,
+    "normal_pct": 85.31,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 11,
+    "timestamp": "2026-05-23 11:57:14",
+    "total": 209,
+    "normal": 180,
+    "defect": 29,
+    "normal_pct": 86.12,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 12,
+    "timestamp": "2026-05-23 11:57:16",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 13,
+    "timestamp": "2026-05-23 11:57:18",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 14,
+    "timestamp": "2026-05-23 11:57:20",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 15,
+    "timestamp": "2026-05-23 11:57:22",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 16,
+    "timestamp": "2026-05-23 11:57:23",
+    "total": 182,
+    "normal": 180,
+    "defect": 2,
+    "normal_pct": 98.9,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 17,
+    "timestamp": "2026-05-23 11:57:25",
+    "total": 206,
+    "normal": 180,
+    "defect": 26,
+    "normal_pct": 87.38,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 18,
+    "timestamp": "2026-05-23 11:57:27",
+    "total": 203,
+    "normal": 180,
+    "defect": 23,
+    "normal_pct": 88.67,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 19,
+    "timestamp": "2026-05-23 11:57:29",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 20,
+    "timestamp": "2026-05-23 11:57:31",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 21,
+    "timestamp": "2026-05-23 11:57:34",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 22,
+    "timestamp": "2026-05-23 11:57:36",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 23,
+    "timestamp": "2026-05-23 11:57:37",
+    "total": 209,
+    "normal": 180,
+    "defect": 29,
+    "normal_pct": 86.12,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 24,
+    "timestamp": "2026-05-23 11:57:40",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 25,
+    "timestamp": "2026-05-23 11:57:42",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 26,
+    "timestamp": "2026-05-23 11:57:44",
+    "total": 208,
+    "normal": 180,
+    "defect": 28,
+    "normal_pct": 86.54,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 27,
+    "timestamp": "2026-05-23 11:57:46",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 28,
+    "timestamp": "2026-05-23 11:57:48",
+    "total": 205,
+    "normal": 180,
+    "defect": 25,
+    "normal_pct": 87.8,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 29,
+    "timestamp": "2026-05-23 11:57:50",
+    "total": 198,
+    "normal": 180,
+    "defect": 18,
+    "normal_pct": 90.91,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 30,
+    "timestamp": "2026-05-23 11:57:52",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 31,
+    "timestamp": "2026-05-23 11:57:54",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 32,
+    "timestamp": "2026-05-23 11:57:56",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 33,
+    "timestamp": "2026-05-23 11:57:59",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 34,
+    "timestamp": "2026-05-23 11:58:01",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 35,
+    "timestamp": "2026-05-23 11:58:03",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 36,
+    "timestamp": "2026-05-23 11:58:05",
+    "total": 208,
+    "normal": 180,
+    "defect": 28,
+    "normal_pct": 86.54,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 37,
+    "timestamp": "2026-05-23 11:58:07",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 38,
+    "timestamp": "2026-05-23 11:58:10",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 39,
+    "timestamp": "2026-05-23 11:58:12",
+    "total": 230,
+    "normal": 181,
+    "defect": 49,
+    "normal_pct": 78.7,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 40,
+    "timestamp": "2026-05-23 11:58:14",
+    "total": 244,
+    "normal": 180,
+    "defect": 64,
+    "normal_pct": 73.77,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 41,
+    "timestamp": "2026-05-23 11:58:17",
+    "total": 199,
+    "normal": 157,
+    "defect": 42,
+    "normal_pct": 78.89,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 42,
+    "timestamp": "2026-05-23 11:58:19",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 43,
+    "timestamp": "2026-05-23 11:58:22",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 44,
+    "timestamp": "2026-05-23 11:58:24",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 45,
+    "timestamp": "2026-05-23 11:58:26",
+    "total": 216,
+    "normal": 180,
+    "defect": 36,
+    "normal_pct": 83.33,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 46,
+    "timestamp": "2026-05-23 11:58:29",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 47,
+    "timestamp": "2026-05-23 11:58:31",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 48,
+    "timestamp": "2026-05-23 11:58:34",
+    "total": 196,
+    "normal": 185,
+    "defect": 11,
+    "normal_pct": 94.39,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 49,
+    "timestamp": "2026-05-23 11:58:36",
+    "total": 207,
+    "normal": 194,
+    "defect": 13,
+    "normal_pct": 93.72,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 50,
+    "timestamp": "2026-05-23 11:58:39",
+    "total": 217,
+    "normal": 194,
+    "defect": 23,
+    "normal_pct": 89.4,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 51,
+    "timestamp": "2026-05-23 11:58:41",
+    "total": 180,
+    "normal": 170,
+    "defect": 10,
+    "normal_pct": 94.44,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 52,
+    "timestamp": "2026-05-23 11:58:44",
+    "total": 100,
+    "normal": 86,
+    "defect": 14,
+    "normal_pct": 86.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 53,
+    "timestamp": "2026-05-23 11:58:46",
+    "total": 150,
+    "normal": 133,
+    "defect": 17,
+    "normal_pct": 88.67,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 54,
+    "timestamp": "2026-05-23 11:58:49",
+    "total": 139,
+    "normal": 130,
+    "defect": 9,
+    "normal_pct": 93.53,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 55,
+    "timestamp": "2026-05-23 11:58:51",
+    "total": 120,
+    "normal": 120,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 56,
+    "timestamp": "2026-05-23 11:58:54",
+    "total": 118,
+    "normal": 118,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 57,
+    "timestamp": "2026-05-23 11:58:56",
+    "total": 115,
+    "normal": 115,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 58,
+    "timestamp": "2026-05-23 11:58:59",
+    "total": 113,
+    "normal": 113,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 59,
+    "timestamp": "2026-05-23 11:59:02",
+    "total": 96,
+    "normal": 96,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 60,
+    "timestamp": "2026-05-23 11:59:04",
+    "total": 104,
+    "normal": 104,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 61,
+    "timestamp": "2026-05-23 11:59:07",
+    "total": 117,
+    "normal": 117,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 62,
+    "timestamp": "2026-05-23 11:59:10",
+    "total": 120,
+    "normal": 120,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 63,
+    "timestamp": "2026-05-23 11:59:12",
+    "total": 148,
+    "normal": 122,
+    "defect": 26,
+    "normal_pct": 82.43,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 64,
+    "timestamp": "2026-05-23 11:59:15",
+    "total": 182,
+    "normal": 122,
+    "defect": 60,
+    "normal_pct": 67.03,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 65,
+    "timestamp": "2026-05-23 11:59:17",
+    "total": 201,
+    "normal": 172,
+    "defect": 29,
+    "normal_pct": 85.57,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 66,
+    "timestamp": "2026-05-23 11:59:20",
+    "total": 156,
+    "normal": 142,
+    "defect": 14,
+    "normal_pct": 91.03,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 67,
+    "timestamp": "2026-05-23 11:59:23",
+    "total": 136,
+    "normal": 106,
+    "defect": 30,
+    "normal_pct": 77.94,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 68,
+    "timestamp": "2026-05-23 11:59:25",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 69,
+    "timestamp": "2026-05-23 11:59:28",
+    "total": 106,
+    "normal": 77,
+    "defect": 29,
+    "normal_pct": 72.64,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 70,
+    "timestamp": "2026-05-23 11:59:31",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 71,
+    "timestamp": "2026-05-23 11:59:34",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 72,
+    "timestamp": "2026-05-23 11:59:37",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 73,
+    "timestamp": "2026-05-23 11:59:40",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 74,
+    "timestamp": "2026-05-23 11:59:42",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 75,
+    "timestamp": "2026-05-23 11:59:45",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 76,
+    "timestamp": "2026-05-23 11:59:48",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 77,
+    "timestamp": "2026-05-23 11:59:50",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 78,
+    "timestamp": "2026-05-23 11:59:53",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 79,
+    "timestamp": "2026-05-23 11:59:56",
+    "total": 120,
+    "normal": 90,
+    "defect": 30,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 80,
+    "timestamp": "2026-05-23 11:59:59",
+    "total": 117,
+    "normal": 89,
+    "defect": 28,
+    "normal_pct": 76.07,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 81,
+    "timestamp": "2026-05-23 12:00:01",
+    "total": 170,
+    "normal": 161,
+    "defect": 9,
+    "normal_pct": 94.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 82,
+    "timestamp": "2026-05-23 12:00:04",
+    "total": 197,
+    "normal": 194,
+    "defect": 3,
+    "normal_pct": 98.48,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 83,
+    "timestamp": "2026-05-23 12:00:07",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 84,
+    "timestamp": "2026-05-23 12:00:10",
+    "total": 189,
+    "normal": 189,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 85,
+    "timestamp": "2026-05-23 12:00:13",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 86,
+    "timestamp": "2026-05-23 12:00:16",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 87,
+    "timestamp": "2026-05-23 12:00:19",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 88,
+    "timestamp": "2026-05-23 12:00:22",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 89,
+    "timestamp": "2026-05-23 12:00:25",
+    "total": 191,
+    "normal": 189,
+    "defect": 2,
+    "normal_pct": 98.95,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 90,
+    "timestamp": "2026-05-23 12:00:28",
+    "total": 161,
+    "normal": 153,
+    "defect": 8,
+    "normal_pct": 95.03,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 91,
+    "timestamp": "2026-05-23 12:00:30",
+    "total": 30,
+    "normal": 0,
+    "defect": 30,
+    "normal_pct": 0.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 92,
+    "timestamp": "2026-05-23 12:00:34",
+    "total": 55,
+    "normal": 30,
+    "defect": 25,
+    "normal_pct": 54.55,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 93,
+    "timestamp": "2026-05-23 12:00:36",
+    "total": 9,
+    "normal": 2,
+    "defect": 7,
+    "normal_pct": 22.22,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 94,
+    "timestamp": "2026-05-23 12:00:40",
+    "total": 101,
+    "normal": 36,
+    "defect": 65,
+    "normal_pct": 35.64,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 95,
+    "timestamp": "2026-05-23 12:00:42",
+    "total": 194,
+    "normal": 192,
+    "defect": 2,
+    "normal_pct": 98.97,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 96,
+    "timestamp": "2026-05-23 12:00:45",
+    "total": 187,
+    "normal": 183,
+    "defect": 4,
+    "normal_pct": 97.86,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 97,
+    "timestamp": "2026-05-23 12:00:48",
+    "total": 185,
+    "normal": 185,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 98,
+    "timestamp": "2026-05-23 12:00:51",
+    "total": 180,
+    "normal": 180,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 99,
+    "timestamp": "2026-05-23 12:00:54",
+    "total": 156,
+    "normal": 133,
+    "defect": 23,
+    "normal_pct": 85.26,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 100,
+    "timestamp": "2026-05-23 12:00:57",
+    "total": 183,
+    "normal": 183,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 101,
+    "timestamp": "2026-05-23 12:01:00",
+    "total": 202,
+    "normal": 195,
+    "defect": 7,
+    "normal_pct": 96.53,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 102,
+    "timestamp": "2026-05-23 12:01:03",
+    "total": 206,
+    "normal": 181,
+    "defect": 25,
+    "normal_pct": 87.86,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 103,
+    "timestamp": "2026-05-23 12:01:06",
+    "total": 212,
+    "normal": 182,
+    "defect": 30,
+    "normal_pct": 85.85,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 104,
+    "timestamp": "2026-05-23 12:01:09",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 105,
+    "timestamp": "2026-05-23 12:01:12",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 106,
+    "timestamp": "2026-05-23 12:01:15",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 107,
+    "timestamp": "2026-05-23 12:01:18",
+    "total": 210,
+    "normal": 180,
+    "defect": 30,
+    "normal_pct": 85.71,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 108,
+    "timestamp": "2026-05-23 12:01:21",
+    "total": 215,
+    "normal": 180,
+    "defect": 35,
+    "normal_pct": 83.72,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 109,
+    "timestamp": "2026-05-23 12:01:24",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 110,
+    "timestamp": "2026-05-23 12:01:27",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 111,
+    "timestamp": "2026-05-23 12:01:30",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 112,
+    "timestamp": "2026-05-23 12:01:33",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 113,
+    "timestamp": "2026-05-23 12:01:36",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 114,
+    "timestamp": "2026-05-23 12:01:39",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 115,
+    "timestamp": "2026-05-23 12:01:42",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 116,
+    "timestamp": "2026-05-23 12:01:45",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 117,
+    "timestamp": "2026-05-23 12:01:48",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 118,
+    "timestamp": "2026-05-23 12:01:51",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 119,
+    "timestamp": "2026-05-23 12:01:54",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 120,
+    "timestamp": "2026-05-23 12:01:57",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 121,
+    "timestamp": "2026-05-23 12:01:59",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 122,
+    "timestamp": "2026-05-23 12:02:02",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 123,
+    "timestamp": "2026-05-23 12:02:04",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 124,
+    "timestamp": "2026-05-23 12:02:07",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 125,
+    "timestamp": "2026-05-23 12:02:10",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 126,
+    "timestamp": "2026-05-23 12:02:12",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 127,
+    "timestamp": "2026-05-23 12:02:15",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 128,
+    "timestamp": "2026-05-23 12:02:18",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 129,
+    "timestamp": "2026-05-23 12:02:21",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 130,
+    "timestamp": "2026-05-23 12:02:24",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 131,
+    "timestamp": "2026-05-23 12:02:27",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 132,
+    "timestamp": "2026-05-23 12:02:29",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 133,
+    "timestamp": "2026-05-23 12:02:32",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 134,
+    "timestamp": "2026-05-23 12:02:35",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 135,
+    "timestamp": "2026-05-23 12:02:37",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 136,
+    "timestamp": "2026-05-23 12:02:40",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 137,
+    "timestamp": "2026-05-23 12:02:43",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 138,
+    "timestamp": "2026-05-23 12:02:46",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 139,
+    "timestamp": "2026-05-23 12:02:49",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 140,
+    "timestamp": "2026-05-23 12:02:51",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 141,
+    "timestamp": "2026-05-23 12:02:54",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 142,
+    "timestamp": "2026-05-23 12:02:56",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 143,
+    "timestamp": "2026-05-23 12:02:59",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 144,
+    "timestamp": "2026-05-23 12:03:02",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 145,
+    "timestamp": "2026-05-23 12:03:04",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 146,
+    "timestamp": "2026-05-23 12:03:07",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 147,
+    "timestamp": "2026-05-23 12:03:10",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 148,
+    "timestamp": "2026-05-23 12:03:12",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 149,
+    "timestamp": "2026-05-23 12:03:15",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 150,
+    "timestamp": "2026-05-23 12:03:18",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 151,
+    "timestamp": "2026-05-23 12:03:22",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 152,
+    "timestamp": "2026-05-23 12:03:25",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 153,
+    "timestamp": "2026-05-23 12:03:28",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 154,
+    "timestamp": "2026-05-23 12:03:31",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 155,
+    "timestamp": "2026-05-23 12:03:34",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 156,
+    "timestamp": "2026-05-23 12:03:37",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 157,
+    "timestamp": "2026-05-23 12:03:40",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 158,
+    "timestamp": "2026-05-23 12:03:43",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 159,
+    "timestamp": "2026-05-23 12:03:45",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 160,
+    "timestamp": "2026-05-23 12:03:49",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 161,
+    "timestamp": "2026-05-23 12:03:52",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 162,
+    "timestamp": "2026-05-23 12:03:55",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 163,
+    "timestamp": "2026-05-23 12:03:58",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 164,
+    "timestamp": "2026-05-23 12:04:01",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 165,
+    "timestamp": "2026-05-23 12:04:03",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 166,
+    "timestamp": "2026-05-23 12:04:07",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 167,
+    "timestamp": "2026-05-23 12:04:10",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 168,
+    "timestamp": "2026-05-23 12:04:12",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 169,
+    "timestamp": "2026-05-23 12:04:15",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 170,
+    "timestamp": "2026-05-23 12:04:19",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 171,
+    "timestamp": "2026-05-23 12:04:22",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 172,
+    "timestamp": "2026-05-23 12:04:25",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 173,
+    "timestamp": "2026-05-23 12:04:28",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 174,
+    "timestamp": "2026-05-23 12:04:31",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 175,
+    "timestamp": "2026-05-23 12:04:33",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 176,
+    "timestamp": "2026-05-23 12:04:36",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 177,
+    "timestamp": "2026-05-23 12:04:40",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 178,
+    "timestamp": "2026-05-23 12:04:43",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 179,
+    "timestamp": "2026-05-23 12:04:46",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 180,
+    "timestamp": "2026-05-23 12:04:48",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 181,
+    "timestamp": "2026-05-23 12:04:51",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 182,
+    "timestamp": "2026-05-23 12:04:53",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 183,
+    "timestamp": "2026-05-23 12:04:56",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 184,
+    "timestamp": "2026-05-23 12:04:59",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 185,
+    "timestamp": "2026-05-23 12:05:01",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 186,
+    "timestamp": "2026-05-23 12:05:05",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 187,
+    "timestamp": "2026-05-23 12:05:09",
+    "total": 240,
+    "normal": 180,
+    "defect": 60,
+    "normal_pct": 75.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 188,
+    "timestamp": "2026-05-23 12:05:12",
+    "total": 273,
+    "normal": 200,
+    "defect": 73,
+    "normal_pct": 73.26,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 189,
+    "timestamp": "2026-05-23 12:05:15",
+    "total": 286,
+    "normal": 203,
+    "defect": 83,
+    "normal_pct": 70.98,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 190,
+    "timestamp": "2026-05-23 12:05:18",
+    "total": 293,
+    "normal": 203,
+    "defect": 90,
+    "normal_pct": 69.28,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 191,
+    "timestamp": "2026-05-23 12:05:20",
+    "total": 292,
+    "normal": 206,
+    "defect": 86,
+    "normal_pct": 70.55,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 192,
+    "timestamp": "2026-05-23 12:05:23",
+    "total": 258,
+    "normal": 198,
+    "defect": 60,
+    "normal_pct": 76.74,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 193,
+    "timestamp": "2026-05-23 12:05:26",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 194,
+    "timestamp": "2026-05-23 12:05:28",
+    "total": 270,
+    "normal": 210,
+    "defect": 60,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 195,
+    "timestamp": "2026-05-23 12:05:31",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 196,
+    "timestamp": "2026-05-23 12:05:33",
+    "total": 294,
+    "normal": 210,
+    "defect": 84,
+    "normal_pct": 71.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 197,
+    "timestamp": "2026-05-23 12:05:36",
+    "total": 286,
+    "normal": 210,
+    "defect": 76,
+    "normal_pct": 73.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 198,
+    "timestamp": "2026-05-23 12:05:39",
+    "total": 292,
+    "normal": 210,
+    "defect": 82,
+    "normal_pct": 71.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 199,
+    "timestamp": "2026-05-23 12:05:42",
+    "total": 284,
+    "normal": 210,
+    "defect": 74,
+    "normal_pct": 73.94,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 200,
+    "timestamp": "2026-05-23 12:05:44",
+    "total": 299,
+    "normal": 210,
+    "defect": 89,
+    "normal_pct": 70.23,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 201,
+    "timestamp": "2026-05-23 12:05:47",
+    "total": 285,
+    "normal": 210,
+    "defect": 75,
+    "normal_pct": 73.68,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 202,
+    "timestamp": "2026-05-23 12:05:50",
+    "total": 278,
+    "normal": 210,
+    "defect": 68,
+    "normal_pct": 75.54,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 203,
+    "timestamp": "2026-05-23 12:05:52",
+    "total": 293,
+    "normal": 210,
+    "defect": 83,
+    "normal_pct": 71.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 204,
+    "timestamp": "2026-05-23 12:05:55",
+    "total": 295,
+    "normal": 210,
+    "defect": 85,
+    "normal_pct": 71.19,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 205,
+    "timestamp": "2026-05-23 12:05:58",
+    "total": 299,
+    "normal": 210,
+    "defect": 89,
+    "normal_pct": 70.23,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 206,
+    "timestamp": "2026-05-23 12:06:00",
+    "total": 296,
+    "normal": 210,
+    "defect": 86,
+    "normal_pct": 70.95,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 207,
+    "timestamp": "2026-05-23 12:06:03",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 208,
+    "timestamp": "2026-05-23 12:06:06",
+    "total": 297,
+    "normal": 208,
+    "defect": 89,
+    "normal_pct": 70.03,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 209,
+    "timestamp": "2026-05-23 12:06:09",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 210,
+    "timestamp": "2026-05-23 12:06:14",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 211,
+    "timestamp": "2026-05-23 12:06:18",
+    "total": 293,
+    "normal": 210,
+    "defect": 83,
+    "normal_pct": 71.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 212,
+    "timestamp": "2026-05-23 12:06:20",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 213,
+    "timestamp": "2026-05-23 12:06:23",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 214,
+    "timestamp": "2026-05-23 12:06:26",
+    "total": 299,
+    "normal": 210,
+    "defect": 89,
+    "normal_pct": 70.23,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 215,
+    "timestamp": "2026-05-23 12:06:29",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 216,
+    "timestamp": "2026-05-23 12:06:31",
+    "total": 290,
+    "normal": 210,
+    "defect": 80,
+    "normal_pct": 72.41,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 217,
+    "timestamp": "2026-05-23 12:06:34",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 218,
+    "timestamp": "2026-05-23 12:06:36",
+    "total": 295,
+    "normal": 210,
+    "defect": 85,
+    "normal_pct": 71.19,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 219,
+    "timestamp": "2026-05-23 12:06:39",
+    "total": 289,
+    "normal": 210,
+    "defect": 79,
+    "normal_pct": 72.66,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 220,
+    "timestamp": "2026-05-23 12:06:42",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 221,
+    "timestamp": "2026-05-23 12:06:44",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 222,
+    "timestamp": "2026-05-23 12:06:47",
+    "total": 287,
+    "normal": 210,
+    "defect": 77,
+    "normal_pct": 73.17,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 223,
+    "timestamp": "2026-05-23 12:06:50",
+    "total": 285,
+    "normal": 210,
+    "defect": 75,
+    "normal_pct": 73.68,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 224,
+    "timestamp": "2026-05-23 12:06:52",
+    "total": 287,
+    "normal": 210,
+    "defect": 77,
+    "normal_pct": 73.17,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 225,
+    "timestamp": "2026-05-23 12:06:56",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 226,
+    "timestamp": "2026-05-23 12:06:59",
+    "total": 294,
+    "normal": 210,
+    "defect": 84,
+    "normal_pct": 71.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 227,
+    "timestamp": "2026-05-23 12:07:01",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 228,
+    "timestamp": "2026-05-23 12:07:04",
+    "total": 293,
+    "normal": 210,
+    "defect": 83,
+    "normal_pct": 71.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 229,
+    "timestamp": "2026-05-23 12:07:08",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 230,
+    "timestamp": "2026-05-23 12:07:13",
+    "total": 294,
+    "normal": 210,
+    "defect": 84,
+    "normal_pct": 71.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 231,
+    "timestamp": "2026-05-23 12:07:15",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 232,
+    "timestamp": "2026-05-23 12:07:18",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 233,
+    "timestamp": "2026-05-23 12:07:24",
+    "total": 296,
+    "normal": 210,
+    "defect": 86,
+    "normal_pct": 70.95,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 234,
+    "timestamp": "2026-05-23 12:07:27",
+    "total": 290,
+    "normal": 210,
+    "defect": 80,
+    "normal_pct": 72.41,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 235,
+    "timestamp": "2026-05-23 12:07:30",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 236,
+    "timestamp": "2026-05-23 12:07:32",
+    "total": 295,
+    "normal": 210,
+    "defect": 85,
+    "normal_pct": 71.19,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 237,
+    "timestamp": "2026-05-23 12:07:35",
+    "total": 294,
+    "normal": 210,
+    "defect": 84,
+    "normal_pct": 71.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 238,
+    "timestamp": "2026-05-23 12:07:38",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 239,
+    "timestamp": "2026-05-23 12:07:40",
+    "total": 296,
+    "normal": 210,
+    "defect": 86,
+    "normal_pct": 70.95,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 240,
+    "timestamp": "2026-05-23 12:07:43",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 241,
+    "timestamp": "2026-05-23 12:07:46",
+    "total": 290,
+    "normal": 210,
+    "defect": 80,
+    "normal_pct": 72.41,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 242,
+    "timestamp": "2026-05-23 12:07:48",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 243,
+    "timestamp": "2026-05-23 12:07:51",
+    "total": 287,
+    "normal": 210,
+    "defect": 77,
+    "normal_pct": 73.17,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 244,
+    "timestamp": "2026-05-23 12:07:54",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 245,
+    "timestamp": "2026-05-23 12:07:56",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 246,
+    "timestamp": "2026-05-23 12:07:59",
+    "total": 281,
+    "normal": 210,
+    "defect": 71,
+    "normal_pct": 74.73,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 247,
+    "timestamp": "2026-05-23 12:08:02",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 248,
+    "timestamp": "2026-05-23 12:08:04",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 249,
+    "timestamp": "2026-05-23 12:08:07",
+    "total": 292,
+    "normal": 210,
+    "defect": 82,
+    "normal_pct": 71.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 250,
+    "timestamp": "2026-05-23 12:08:10",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 251,
+    "timestamp": "2026-05-23 12:08:12",
+    "total": 289,
+    "normal": 210,
+    "defect": 79,
+    "normal_pct": 72.66,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 252,
+    "timestamp": "2026-05-23 12:08:15",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 253,
+    "timestamp": "2026-05-23 12:08:18",
+    "total": 290,
+    "normal": 210,
+    "defect": 80,
+    "normal_pct": 72.41,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 254,
+    "timestamp": "2026-05-23 12:08:20",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 255,
+    "timestamp": "2026-05-23 12:08:23",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 256,
+    "timestamp": "2026-05-23 12:08:26",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 257,
+    "timestamp": "2026-05-23 12:08:28",
+    "total": 297,
+    "normal": 210,
+    "defect": 87,
+    "normal_pct": 70.71,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 258,
+    "timestamp": "2026-05-23 12:08:31",
+    "total": 292,
+    "normal": 210,
+    "defect": 82,
+    "normal_pct": 71.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 259,
+    "timestamp": "2026-05-23 12:08:34",
+    "total": 288,
+    "normal": 210,
+    "defect": 78,
+    "normal_pct": 72.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 260,
+    "timestamp": "2026-05-23 12:08:36",
+    "total": 292,
+    "normal": 210,
+    "defect": 82,
+    "normal_pct": 71.92,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 261,
+    "timestamp": "2026-05-23 12:08:39",
+    "total": 281,
+    "normal": 210,
+    "defect": 71,
+    "normal_pct": 74.73,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 262,
+    "timestamp": "2026-05-23 12:08:42",
+    "total": 274,
+    "normal": 210,
+    "defect": 64,
+    "normal_pct": 76.64,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 263,
+    "timestamp": "2026-05-23 12:08:45",
+    "total": 293,
+    "normal": 210,
+    "defect": 83,
+    "normal_pct": 71.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 264,
+    "timestamp": "2026-05-23 12:08:47",
+    "total": 293,
+    "normal": 210,
+    "defect": 83,
+    "normal_pct": 71.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 265,
+    "timestamp": "2026-05-23 12:08:50",
+    "total": 299,
+    "normal": 210,
+    "defect": 89,
+    "normal_pct": 70.23,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 266,
+    "timestamp": "2026-05-23 12:08:53",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 267,
+    "timestamp": "2026-05-23 12:08:55",
+    "total": 299,
+    "normal": 210,
+    "defect": 89,
+    "normal_pct": 70.23,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 268,
+    "timestamp": "2026-05-23 12:08:57",
+    "total": 286,
+    "normal": 210,
+    "defect": 76,
+    "normal_pct": 73.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 269,
+    "timestamp": "2026-05-23 12:09:00",
+    "total": 286,
+    "normal": 210,
+    "defect": 76,
+    "normal_pct": 73.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 270,
+    "timestamp": "2026-05-23 12:09:02",
+    "total": 282,
+    "normal": 210,
+    "defect": 72,
+    "normal_pct": 74.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 271,
+    "timestamp": "2026-05-23 12:09:05",
+    "total": 282,
+    "normal": 210,
+    "defect": 72,
+    "normal_pct": 74.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 272,
+    "timestamp": "2026-05-23 12:09:07",
+    "total": 291,
+    "normal": 210,
+    "defect": 81,
+    "normal_pct": 72.16,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 273,
+    "timestamp": "2026-05-23 12:09:10",
+    "total": 283,
+    "normal": 210,
+    "defect": 73,
+    "normal_pct": 74.2,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 274,
+    "timestamp": "2026-05-23 12:09:13",
+    "total": 260,
+    "normal": 190,
+    "defect": 70,
+    "normal_pct": 73.08,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 275,
+    "timestamp": "2026-05-23 12:09:16",
+    "total": 244,
+    "normal": 182,
+    "defect": 62,
+    "normal_pct": 74.59,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 276,
+    "timestamp": "2026-05-23 12:09:19",
+    "total": 258,
+    "normal": 198,
+    "defect": 60,
+    "normal_pct": 76.74,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 277,
+    "timestamp": "2026-05-23 12:09:22",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 278,
+    "timestamp": "2026-05-23 12:09:25",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 279,
+    "timestamp": "2026-05-23 12:09:28",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 280,
+    "timestamp": "2026-05-23 12:09:31",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 281,
+    "timestamp": "2026-05-23 12:09:35",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 282,
+    "timestamp": "2026-05-23 12:09:38",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 283,
+    "timestamp": "2026-05-23 12:09:41",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 284,
+    "timestamp": "2026-05-23 12:09:44",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 285,
+    "timestamp": "2026-05-23 12:09:47",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 286,
+    "timestamp": "2026-05-23 12:09:50",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 287,
+    "timestamp": "2026-05-23 12:09:54",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 288,
+    "timestamp": "2026-05-23 12:09:57",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 289,
+    "timestamp": "2026-05-23 12:10:00",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 290,
+    "timestamp": "2026-05-23 12:10:03",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 291,
+    "timestamp": "2026-05-23 12:10:06",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 292,
+    "timestamp": "2026-05-23 12:10:09",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 293,
+    "timestamp": "2026-05-23 12:10:13",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 294,
+    "timestamp": "2026-05-23 12:10:16",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 295,
+    "timestamp": "2026-05-23 12:10:19",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 296,
+    "timestamp": "2026-05-23 12:10:22",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 297,
+    "timestamp": "2026-05-23 12:10:25",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 298,
+    "timestamp": "2026-05-23 12:10:28",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 299,
+    "timestamp": "2026-05-23 12:10:32",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 300,
+    "timestamp": "2026-05-23 12:10:35",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 301,
+    "timestamp": "2026-05-23 12:10:38",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 302,
+    "timestamp": "2026-05-23 12:10:41",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 303,
+    "timestamp": "2026-05-23 12:10:44",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 304,
+    "timestamp": "2026-05-23 12:10:48",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 305,
+    "timestamp": "2026-05-23 12:10:51",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 306,
+    "timestamp": "2026-05-23 12:10:54",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 307,
+    "timestamp": "2026-05-23 12:10:57",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 308,
+    "timestamp": "2026-05-23 12:11:00",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 309,
+    "timestamp": "2026-05-23 12:11:03",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 310,
+    "timestamp": "2026-05-23 12:11:06",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 311,
+    "timestamp": "2026-05-23 12:11:10",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 312,
+    "timestamp": "2026-05-23 12:11:13",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 313,
+    "timestamp": "2026-05-23 12:11:17",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 314,
+    "timestamp": "2026-05-23 12:11:20",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 315,
+    "timestamp": "2026-05-23 12:11:23",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 316,
+    "timestamp": "2026-05-23 12:11:26",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 317,
+    "timestamp": "2026-05-23 12:11:30",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 318,
+    "timestamp": "2026-05-23 12:11:33",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 319,
+    "timestamp": "2026-05-23 12:11:36",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 320,
+    "timestamp": "2026-05-23 12:11:40",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 321,
+    "timestamp": "2026-05-23 12:11:43",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 322,
+    "timestamp": "2026-05-23 12:11:46",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 323,
+    "timestamp": "2026-05-23 12:11:49",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 324,
+    "timestamp": "2026-05-23 12:11:53",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 325,
+    "timestamp": "2026-05-23 12:11:56",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 326,
+    "timestamp": "2026-05-23 12:11:59",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 327,
+    "timestamp": "2026-05-23 12:12:03",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 328,
+    "timestamp": "2026-05-23 12:12:06",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 329,
+    "timestamp": "2026-05-23 12:12:09",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 330,
+    "timestamp": "2026-05-23 12:12:13",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 331,
+    "timestamp": "2026-05-23 12:12:16",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 332,
+    "timestamp": "2026-05-23 12:12:20",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 333,
+    "timestamp": "2026-05-23 12:12:23",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 334,
+    "timestamp": "2026-05-23 12:12:26",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 335,
+    "timestamp": "2026-05-23 12:12:30",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 336,
+    "timestamp": "2026-05-23 12:12:33",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 337,
+    "timestamp": "2026-05-23 12:12:36",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 338,
+    "timestamp": "2026-05-23 12:12:39",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 339,
+    "timestamp": "2026-05-23 12:12:43",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 340,
+    "timestamp": "2026-05-23 12:12:46",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 341,
+    "timestamp": "2026-05-23 12:12:50",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 342,
+    "timestamp": "2026-05-23 12:12:53",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 343,
+    "timestamp": "2026-05-23 12:12:56",
+    "total": 300,
+    "normal": 210,
+    "defect": 90,
+    "normal_pct": 70.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 344,
+    "timestamp": "2026-05-23 12:13:00",
+    "total": 298,
+    "normal": 210,
+    "defect": 88,
+    "normal_pct": 70.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 345,
+    "timestamp": "2026-05-23 12:13:01",
+    "total": 54,
+    "normal": 42,
+    "defect": 12,
+    "normal_pct": 77.78,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 13:08:12",
+    "total": 8,
+    "normal": 2,
+    "defect": 6,
+    "normal_pct": 25.0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 13:08:14",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 13:08:16",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 13:08:18",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 13:08:20",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 13:08:22",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 13:08:24",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 13:08:27",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 13:08:29",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 10,
+    "timestamp": "2026-05-23 13:08:31",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 11,
+    "timestamp": "2026-05-23 13:08:33",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 12,
+    "timestamp": "2026-05-23 13:08:36",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 13,
+    "timestamp": "2026-05-23 13:08:42",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 14,
+    "timestamp": "2026-05-23 13:08:48",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 15,
+    "timestamp": "2026-05-23 13:08:50",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 16,
+    "timestamp": "2026-05-23 13:08:52",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 17,
+    "timestamp": "2026-05-23 13:08:54",
+    "total": 11,
+    "normal": 6,
+    "defect": 5,
+    "normal_pct": 54.55,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 18,
+    "timestamp": "2026-05-23 13:08:56",
+    "total": 30,
+    "normal": 30,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 19,
+    "timestamp": "2026-05-23 13:08:58",
+    "total": 37,
+    "normal": 37,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 20,
+    "timestamp": "2026-05-23 13:09:00",
+    "total": 67,
+    "normal": 66,
+    "defect": 1,
+    "normal_pct": 98.51,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 21,
+    "timestamp": "2026-05-23 13:09:02",
+    "total": 90,
+    "normal": 90,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 22,
+    "timestamp": "2026-05-23 13:09:04",
+    "total": 113,
+    "normal": 110,
+    "defect": 3,
+    "normal_pct": 97.35,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 23,
+    "timestamp": "2026-05-23 13:09:06",
+    "total": 134,
+    "normal": 128,
+    "defect": 6,
+    "normal_pct": 95.52,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 24,
+    "timestamp": "2026-05-23 13:09:08",
+    "total": 124,
+    "normal": 108,
+    "defect": 16,
+    "normal_pct": 87.1,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 25,
+    "timestamp": "2026-05-23 13:09:10",
+    "total": 150,
+    "normal": 120,
+    "defect": 30,
+    "normal_pct": 80.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 26,
+    "timestamp": "2026-05-23 13:09:12",
+    "total": 176,
+    "normal": 145,
+    "defect": 31,
+    "normal_pct": 82.39,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 27,
+    "timestamp": "2026-05-23 13:09:14",
+    "total": 187,
+    "normal": 150,
+    "defect": 37,
+    "normal_pct": 80.21,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 28,
+    "timestamp": "2026-05-23 13:09:16",
+    "total": 210,
+    "normal": 150,
+    "defect": 60,
+    "normal_pct": 71.43,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 29,
+    "timestamp": "2026-05-23 13:09:18",
+    "total": 203,
+    "normal": 139,
+    "defect": 64,
+    "normal_pct": 68.47,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 30,
+    "timestamp": "2026-05-23 13:09:20",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 31,
+    "timestamp": "2026-05-23 13:09:22",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 32,
+    "timestamp": "2026-05-23 13:09:24",
+    "total": 260,
+    "normal": 150,
+    "defect": 110,
+    "normal_pct": 57.69,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 33,
+    "timestamp": "2026-05-23 13:09:26",
+    "total": 241,
+    "normal": 150,
+    "defect": 91,
+    "normal_pct": 62.24,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 34,
+    "timestamp": "2026-05-23 13:09:28",
+    "total": 260,
+    "normal": 149,
+    "defect": 111,
+    "normal_pct": 57.31,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 35,
+    "timestamp": "2026-05-23 13:09:30",
+    "total": 259,
+    "normal": 152,
+    "defect": 107,
+    "normal_pct": 58.69,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 36,
+    "timestamp": "2026-05-23 13:09:32",
+    "total": 246,
+    "normal": 146,
+    "defect": 100,
+    "normal_pct": 59.35,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 37,
+    "timestamp": "2026-05-23 13:09:34",
+    "total": 256,
+    "normal": 143,
+    "defect": 113,
+    "normal_pct": 55.86,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 38,
+    "timestamp": "2026-05-23 13:09:36",
+    "total": 246,
+    "normal": 147,
+    "defect": 99,
+    "normal_pct": 59.76,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 39,
+    "timestamp": "2026-05-23 13:09:37",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 40,
+    "timestamp": "2026-05-23 13:09:39",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 41,
+    "timestamp": "2026-05-23 13:09:41",
+    "total": 240,
+    "normal": 148,
+    "defect": 92,
+    "normal_pct": 61.67,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 42,
+    "timestamp": "2026-05-23 13:09:43",
+    "total": 253,
+    "normal": 149,
+    "defect": 104,
+    "normal_pct": 58.89,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 43,
+    "timestamp": "2026-05-23 13:09:45",
+    "total": 250,
+    "normal": 129,
+    "defect": 121,
+    "normal_pct": 51.6,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 44,
+    "timestamp": "2026-05-23 13:09:47",
+    "total": 192,
+    "normal": 110,
+    "defect": 82,
+    "normal_pct": 57.29,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 45,
+    "timestamp": "2026-05-23 13:09:49",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 46,
+    "timestamp": "2026-05-23 13:09:51",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 47,
+    "timestamp": "2026-05-23 13:09:53",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 48,
+    "timestamp": "2026-05-23 13:09:55",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 49,
+    "timestamp": "2026-05-23 13:09:57",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 50,
+    "timestamp": "2026-05-23 13:09:59",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 51,
+    "timestamp": "2026-05-23 13:10:01",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 52,
+    "timestamp": "2026-05-23 13:10:03",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 53,
+    "timestamp": "2026-05-23 13:10:05",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 54,
+    "timestamp": "2026-05-23 13:10:07",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 55,
+    "timestamp": "2026-05-23 13:10:09",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 56,
+    "timestamp": "2026-05-23 13:10:11",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 57,
+    "timestamp": "2026-05-23 13:10:17",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 58,
+    "timestamp": "2026-05-23 13:10:20",
+    "total": 112,
+    "normal": 70,
+    "defect": 42,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 1,
+    "timestamp": "2026-05-23 13:10:48",
+    "total": 240,
+    "normal": 147,
+    "defect": 93,
+    "normal_pct": 61.25,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 2,
+    "timestamp": "2026-05-23 13:10:51",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 3,
+    "timestamp": "2026-05-23 13:10:53",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 4,
+    "timestamp": "2026-05-23 13:10:55",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 5,
+    "timestamp": "2026-05-23 13:10:58",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 6,
+    "timestamp": "2026-05-23 13:11:00",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 7,
+    "timestamp": "2026-05-23 13:11:02",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 8,
+    "timestamp": "2026-05-23 13:11:05",
+    "total": 241,
+    "normal": 159,
+    "defect": 82,
+    "normal_pct": 65.98,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 9,
+    "timestamp": "2026-05-23 13:11:07",
+    "total": 242,
+    "normal": 152,
+    "defect": 90,
+    "normal_pct": 62.81,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 10,
+    "timestamp": "2026-05-23 13:11:09",
+    "total": 247,
+    "normal": 160,
+    "defect": 87,
+    "normal_pct": 64.78,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 11,
+    "timestamp": "2026-05-23 13:11:11",
+    "total": 246,
+    "normal": 156,
+    "defect": 90,
+    "normal_pct": 63.41,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 12,
+    "timestamp": "2026-05-23 13:11:13",
+    "total": 243,
+    "normal": 154,
+    "defect": 89,
+    "normal_pct": 63.37,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 13,
+    "timestamp": "2026-05-23 13:11:17",
+    "total": 249,
+    "normal": 161,
+    "defect": 88,
+    "normal_pct": 64.66,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 14,
+    "timestamp": "2026-05-23 13:11:25",
+    "total": 242,
+    "normal": 153,
+    "defect": 89,
+    "normal_pct": 63.22,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 15,
+    "timestamp": "2026-05-23 13:11:27",
+    "total": 242,
+    "normal": 152,
+    "defect": 90,
+    "normal_pct": 62.81,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 16,
+    "timestamp": "2026-05-23 13:11:29",
+    "total": 241,
+    "normal": 152,
+    "defect": 89,
+    "normal_pct": 63.07,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 17,
+    "timestamp": "2026-05-23 13:11:31",
+    "total": 238,
+    "normal": 147,
+    "defect": 91,
+    "normal_pct": 61.76,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 18,
+    "timestamp": "2026-05-23 13:11:33",
+    "total": 240,
+    "normal": 150,
+    "defect": 90,
+    "normal_pct": 62.5,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 19,
+    "timestamp": "2026-05-23 13:11:35",
+    "total": 239,
+    "normal": 150,
+    "defect": 89,
+    "normal_pct": 62.76,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 20,
+    "timestamp": "2026-05-23 13:11:37",
+    "total": 117,
+    "normal": 64,
+    "defect": 53,
+    "normal_pct": 54.7,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 21,
+    "timestamp": "2026-05-23 13:11:39",
+    "total": 146,
+    "normal": 144,
+    "defect": 2,
+    "normal_pct": 98.63,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 22,
+    "timestamp": "2026-05-23 13:11:41",
+    "total": 150,
+    "normal": 150,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 23,
+    "timestamp": "2026-05-23 13:11:43",
+    "total": 150,
+    "normal": 150,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 24,
+    "timestamp": "2026-05-23 13:11:51",
+    "total": 150,
+    "normal": 150,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 25,
+    "timestamp": "2026-05-23 13:11:58",
+    "total": 113,
+    "normal": 111,
+    "defect": 2,
+    "normal_pct": 98.23,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 26,
+    "timestamp": "2026-05-23 13:12:06",
+    "total": 120,
+    "normal": 120,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 27,
+    "timestamp": "2026-05-23 13:12:12",
+    "total": 120,
+    "normal": 120,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 28,
+    "timestamp": "2026-05-23 13:12:14",
+    "total": 115,
+    "normal": 115,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 29,
+    "timestamp": "2026-05-23 13:12:16",
+    "total": 103,
+    "normal": 103,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 30,
+    "timestamp": "2026-05-23 13:12:20",
+    "total": 89,
+    "normal": 83,
+    "defect": 6,
+    "normal_pct": 93.26,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 31,
+    "timestamp": "2026-05-23 13:12:26",
+    "total": 40,
+    "normal": 40,
+    "defect": 0,
+    "normal_pct": 100.0,
+    "status": "GOOD"
+  },
+  {
+    "batch_id": 32,
+    "timestamp": "2026-05-23 13:12:33",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 33,
+    "timestamp": "2026-05-23 13:12:40",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  },
+  {
+    "batch_id": 34,
+    "timestamp": "2026-05-23 13:12:47",
+    "total": 0,
+    "normal": 0,
+    "defect": 0,
+    "normal_pct": 0,
+    "status": "FAIL"
+  }
+]
