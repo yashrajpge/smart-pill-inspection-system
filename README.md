@@ -9,8 +9,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)
 ![Flask](https://img.shields.io/badge/Flask-dashboard-lightgrey)
 
-**👥 Team:** Yashraj Pangave and Aditya Rathod
-**🎓 Project guide:** Dr. A.S. Gaadhe
+ Yashraj Pangave 
 
 ---
 
